@@ -1,0 +1,88 @@
+
+h1,h2,hr,a{
+    color:darkslategray;
+    
+}
+
+
+a{
+    color: steelblue;
+}
+
+
+
+Pa{
+    background-color: darkolivegreen;
+}
+
+
+p{
+	color: darkgoldenrod;
+    font-size:  20px;
+}
+
+
+
+table,td,th{
+	border-style:groove;
+	border: inset;
+	border-color: darkslategray;
+    background-color: lightblue;
+    size: 100%;
+    color: darkslategray;
+    border-width: 5px;
+    font-size: 18px;
+    border-top: darkslategray;
+    border-right: darkslategray;
+    border-left: darkslategray;
+}
+
+
+
+ul{
+
+    margin-top: 30px;
+    margin-left: 200px;
+    padding-left: 60px;
+    padding-top: 20px;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+
+
+li{
+    float: left;
+}
+
+
+ li a{
+    display: ruby-base;
+    color:  darkslategray;
+    text-decoration: none;
+    padding:30px;
+    text-align: center;
+ }
+
+
+
+ li a:hover{
+    background-color: darkgoldenrod;
+    color: brown;
+
+ }
+
+
+.home{
+    background-image: url(image/Desert.jpg);
+    background-size: 100%;
+    margin-left: 25px;
+
+}
+
+
+
+.nav{
+    text-align: center;
+    padding-top: 10px;
+}

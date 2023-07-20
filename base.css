@@ -1,0 +1,60 @@
+
+
+body{
+	background-image: url(image/Desert.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+
+}
+
+
+.code{
+
+	text-align: center;
+	color: darkslategray;
+}
+
+
+.sun{
+	color:darkslategray; 
+}
+
+
+.party{
+	color:darkslategray; 
+}
+
+
+/*.clean{
+	color:darkslategray;
+	border-width: 5px;
+	border-style: groove;
+	border-color: darkgoldenrod; 
+	border:inset;
+	background-color: lightblue;
+}*/
+p{
+	color:darkgoldenrod;
+
+}
+
+/*.clean{
+	border-style:groove;
+	border: inset;
+	border-color: darkslategray;
+    background-color: lightblue;
+    size: 100%;
+    color: darkslategray;
+
+}
+*/
+
+table,td,th{
+	border-style:groove;
+	border: inset;
+	border-color: darkslategray;
+    background-color: lightblue;
+    size: 100%;
+    color: darkslategray;
+
+}

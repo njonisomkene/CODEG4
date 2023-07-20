@@ -1,0 +1,71 @@
+h3{
+	color: maroon;
+}
+li,label{
+	color: darkslategray;
+}
+li{
+	list-style-type: circle;
+	text-decoration: none;
+	padding: 1px;
+	display: ruby-text;
+	color: midnightblue;
+}
+
+a {
+	text-decoration: none;
+	color: darkslategray;
+
+}
+body{
+	background-color:navajowhite;
+	background-image:url(image/Desert.jpg );
+	background-size: 100%;
+	background-repeat: repeat-y;
+	background-attachment:fixed;
+}
+
+
+
+p {
+	color: darkgoldenrod;
+}
+
+
+h1,h2{
+	color: 	darkslategray;
+}
+
+
+.register{
+	color: yellow;
+	text-align: center;
+
+}
+
+.reg{
+	text-align: center;
+	background-color: white;
+	width: 40%;
+	font-weight: bolder;
+	opacity: 0.9;
+	line-height: 30px;
+	border-radius: 12px;
+	margin-left: 400px;
+}
+
+form {
+}
+.kent{
+	margin-left: 50px;
+}
+.offer{
+	margin-left: 30px;
+}
+.Submit{
+	background-color: darkgoldenrod;
+	padding: 10px;
+	color: white;
+	border-style: none;
+	border-radius: 10px;
+}

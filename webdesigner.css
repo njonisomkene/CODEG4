@@ -1,0 +1,49 @@
+h1,h2,h3{
+	color: darkslategray;
+}
+li,label{
+	color: darkslategray;
+}
+li{
+	list-style-type: circle;
+	text-decoration: none;
+	padding: 1px;
+	display: ruby-text;
+	color: darkslategray;
+}
+
+a {
+	text-decoration: none;
+	color: darkslategray;
+}
+ul{
+
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background-color:white;
+}
+li{
+	float: left;
+}
+ li a{
+    display: ruby-base;
+    color:  darkslategray;
+    text-decoration: none;
+    padding: 25px;
+    text-align: center;
+ }
+ 
+ li,a:hover{
+    background-color: indigo;
+    color: darkgoldenrod;
+
+ }
+body{
+	background-color:navajowhite;
+}
+
+p {
+	color: maroon;
+}
